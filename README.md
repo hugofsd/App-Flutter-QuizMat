@@ -14,3 +14,24 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Comentários :
+
+# Stateles:
+Dados de entrada (dados mudam externamente)>
+widget > rendenizar Ui (reenderização quando paramentros mudam)
+
+# StateFul :
+ Dados de entrada >widget (estado interno pode mudar) >
+ rendenizar Ui (reenderização quando paramentros mudam)
+
+Usado como componete pai .
+
+"st" de inicio para criar stateless e stateful
+
+# Private:
+
+Incluir um "_", ex : _cpf
+
+
+Func vazia para habilitar botões: onPressed: () {},
